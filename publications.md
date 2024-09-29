@@ -3,33 +3,32 @@ layout: page
 title: Publications
 ---
 
-Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a> for the full publications.
+Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" target="_blank">Google Scholar</a> for the list of all publications.
 <br />
 **2024**
 
-- **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
+- Liu, Minghan, Diptashree Das, **Mohammad Abdi**, Francesco Restuccia, and Marvin Onabajo. "A Digitally Reconfigurable Low-Noise Amplifier with Robust Input Impedance for Machine Learning-Based Receiver Optimizations." In 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS), pp. 392-396. IEEE, 2024.
+[[PAPER]](https://ieeexplore.ieee.org/abstract/document/10658895){: .btn}
+
+- Das, Diptashree, **Mohammad Abdi**, Minghan Liu, Marvin Onabajo, and Francesco Restuccia. "Toward Wireless System and Circuit Co-Design for the Internet of Self-Adaptive Things." In 2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), pp. 540-547. IEEE, 2024.
+[[PAPER]](https://arxiv.org/pdf/2407.01808){: .btn}
+
+- Milin Zhang, **Mohammad Abdi**, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
-
-- Daniel Uvaydov`*`, **Milin Zhang`*`**, Clifton Paul Robinson, Salvatore D’Oro, Tommaso Melodia and Francesco Restuccia. “Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching.” in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2024. 
-[[PAPER]](https://arxiv.org/pdf/2402.03465){: .btn} [[CODE]](https://github.com/uvaydovd/spectrum_sensing_stitching){: .btn} 
-
-- Ankit Mittal, **Milin Zhang**, Thomas Gourousis, Ziyue Zhang, Yunsi Fei, Marvin Onabajo, Francesco Restuccia, and Aatmesh Shrivastava, “Sub-6 GHz Energy Detection-based Fast On-Chip Analog Spectrum Sensing with Learning-driven Signal Classification.” IEEE Internet of Things Journal (2024).
 
 **2023**
 
-- **Milin Zhang**, Mohammad Abdi, and Francesco Restuccia. "Adversarial Machine Learning in
+- **Abdi, Mohammad**, Jonathan Ashdown, Kurt Turck, and Francesco Restuccia. "Channel-Adaptive Dynamic Neural Networks for Low-Complexity Distributed Signal Awareness." In MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM), pp. 27-32. IEEE, 2023.
+[[PAPER]](https://ieeexplore.ieee.org/abstract/document/10356251){: .btn}
+
+- Milin Zhang, **Mohammad Abdi**, and Francesco Restuccia. "Adversarial Machine Learning in
 Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
-- Thomas Gourousis, Ziyue Zhang, Mengting Yan, **Millin Zhang**, Ankit Mittal, Francesco Restuccia, Aatmesh Shrivastava, Yunsi Fei, Marvin Onabajo “Identification of Stealthy Hardware Trojans through On-Chip Temperature Sensing and an Autoencoder-Based Machine Learning Algorithm” in Proc. of the IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), 2023.
+**2018**
 
-- Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” arXiv preprint arXiv:2303.09687 (2023).
-[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
-
-
-- Khandaker Foysal Haque, **Milin Zhang**, Francesco Restuccia, “SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals.” in Proc. of the IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), 2023.
-[[PAPER]](https://arxiv.org/pdf/2304.00057.pdf){: .btn}
-
+- Taghvaei, Sajjad, Ali Tavasoli, Navid Feizi, Zahra Rajestari, and **Mohammad Abdi**. "A control-oriented dynamic model for sit-to-stand motion with fixed support." Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics 232, no. 2 (2018): 265-273.
+[[PAPER]](https://journals.sagepub.com/doi/full/10.1177/1464419317731059){: .btn}
 
 <!-- 
 **Non-refereed project reports:**

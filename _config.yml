@@ -10,18 +10,18 @@
 ############################
 
 # Name of website
-title: Milin Zhang
+title: Mohammad Abdi
 description: Personal Website
 
 # Your name to show in the footer
-author: Milin Zhang
+author: Mohammad Abdi
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Home: "https://milinzhang.github.io/"
+  Home: "https://abdimohammad.github.io"
   Publications: "publications"
   Resume: "resume"
 
@@ -31,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/milin.jpg"
+avatar: "/assets/img/mohammad.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,16 +49,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "zhang.mil@northeastern.edu"
+  email: "abdi.mo@northeastern.edu"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: milinzhang
+  github: AbdiMohammad
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: milin-zhang-b82454204
+  linkedin: mohammad-abdi-215920146
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=bkDjoScAAAAJ&hl=en
+  google-scholar: citations?user=t_gb8OoAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "milinzhang.github.io"
+url-pretty: "abdimohammad.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
