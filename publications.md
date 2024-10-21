@@ -7,23 +7,23 @@ Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" t
 <br />
 **2024**
 
+- Milin Zhang, **Mohammad Abdi**, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
+[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
+
 - Liu, Minghan, Diptashree Das, **Mohammad Abdi**, Francesco Restuccia, and Marvin Onabajo. "A Digitally Reconfigurable Low-Noise Amplifier with Robust Input Impedance for Machine Learning-Based Receiver Optimizations." In 2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS), pp. 392-396. IEEE, 2024.
 [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10658895){: .btn}
 
 - Das, Diptashree, **Mohammad Abdi**, Minghan Liu, Marvin Onabajo, and Francesco Restuccia. "Toward Wireless System and Circuit Co-Design for the Internet of Self-Adaptive Things." In 2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN), pp. 540-547. IEEE, 2024.
 [[PAPER]](https://arxiv.org/pdf/2407.01808){: .btn}
 
-- Milin Zhang, **Mohammad Abdi**, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
-[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
-
 **2023**
-
-- **Abdi, Mohammad**, Jonathan Ashdown, Kurt Turck, and Francesco Restuccia. "Channel-Adaptive Dynamic Neural Networks for Low-Complexity Distributed Signal Awareness." In MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM), pp. 27-32. IEEE, 2023.
-[[PAPER]](https://ieeexplore.ieee.org/abstract/document/10356251){: .btn}
 
 - Milin Zhang, **Mohammad Abdi**, and Francesco Restuccia. "Adversarial Machine Learning in
 Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
+
+- **Abdi, Mohammad**, Jonathan Ashdown, Kurt Turck, and Francesco Restuccia. "Channel-Adaptive Dynamic Neural Networks for Low-Complexity Distributed Signal Awareness." In MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM), pp. 27-32. IEEE, 2023.
+[[PAPER]](https://ieeexplore.ieee.org/abstract/document/10356251){: .btn}
 
 **2018**
 
