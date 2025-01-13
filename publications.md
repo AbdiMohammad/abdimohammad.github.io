@@ -5,7 +5,11 @@ title: Publications
 
 Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" target="_blank">Google Scholar</a> for the list of all publications.
 <br />
+
 **2024**
+
+- **Abdi, Mohammad**, Khandaker Foysal Haque, Francesca Meneghello, Jonathan Ashdown, and Francesco Restuccia. "<code>PhyDNNs</code>: Bringing Deep Neural Networks to the Physical Layer" in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2025.
+[[CODE]](https://github.com/AbdiMohammad/PhyDistInf){: .btn}
 
 - Milin Zhang, **Mohammad Abdi**, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
