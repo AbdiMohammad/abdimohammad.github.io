@@ -8,8 +8,11 @@ Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" t
 
 **2025**
 
-- **Abdi, Mohammad**, Khandaker Foysal Haque, Francesca Meneghello, Jonathan Ashdown, and Francesco Restuccia. "<code>PhyDNNs</code>: Bringing Deep Neural Networks to the Physical Layer" in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2025.
+- **Abdi, Mohammad**, Khandaker Foysal Haque, Francesca Meneghello, Jonathan Ashdown, and Francesco Restuccia. "<code>PhyDNNs</code>: Bringing Deep Neural Networks to the Physical Layer" in Proc. of IEEE International Conference on Computer Communications (INFOCOM), 2025.
 [[CODE]](https://github.com/AbdiMohammad/PhyDistInf){: .btn}
+
+- **Abdi, Mohammad**, Diptashree Das, Minghan Liu, Marvin Onabajo, and Francesco Restuccia. "<code>FEARL</code>: AI-Assisted Energy-Aware Real-Time Receiver Adaptation to Dynamic Environments" in Proc. of IEEE International Conference on Communications (ICC), 2025.
+[[CODE]](https://github.com/AbdiMohammad/RadioRTML_DQN){: .btn}
 
 **2024**
 
@@ -26,7 +29,7 @@ Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" t
 
 - Milin Zhang, **Mohammad Abdi**, and Francesco Restuccia. "Adversarial Machine Learning in
 Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
-[[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
+[[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn} [[CODE]](https://github.com/Restuccia-Group/AdvLatent){: .btn}
 
 - **Abdi, Mohammad**, Jonathan Ashdown, Kurt Turck, and Francesco Restuccia. "Channel-Adaptive Dynamic Neural Networks for Low-Complexity Distributed Signal Awareness." In MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM), pp. 27-32. IEEE, 2023.
 [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10356251){: .btn}
