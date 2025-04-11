@@ -11,6 +11,8 @@ Please see my <a href="https://scholar.google.com/citations?user=t_gb8OoAAAAJ" t
 - **Mohammad Abdi**, Diptashree Das, Minghan Liu, Marvin Onabajo, and Francesco Restuccia. "<code>FEARL</code>: AI-Assisted Energy-Aware Real-Time Receiver Adaptation to Dynamic Environments." in Proc. of IEEE International Conference on Communications (**ICC**), 2025.
 [[CODE]](https://github.com/AbdiMohammad/RadioRTML_DQN){: .btn}
 
+- Das, Diptashree, Minghan Liu, **Mohammad Abdi**, Francesco Restuccia, and Marvin Onabajo. "Digitally Tunable CMOS Mixer Design for Adaptive RF Front-Ends." in Proc. of 2025 IEEE International Symposium on Circuits and Systems (**ISCAS**), 2025.
+
 - **Mohammad Abdi**, Khandaker Foysal Haque, Francesca Meneghello, Jonathan Ashdown, and Francesco Restuccia. "<code>PhyDNNs</code>: Bringing Deep Neural Networks to the Physical Layer." in Proc. of IEEE International Conference on Computer Communications (**INFOCOM**), 2025.
 [[CODE]](https://github.com/AbdiMohammad/PhyDistInf){: .btn}
 
